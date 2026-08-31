@@ -80,7 +80,7 @@ This runs a demo query and prints the full execution trace:
 - Validation results
 - Final synthesized answer
 
-## Key Pointers 
+## Key Implementation Pointers 
 
 - "I decompose complex queries into steps, each with a dedicated tool"
 - "State is tracked across steps — this enables complex multi-turn workflows"
